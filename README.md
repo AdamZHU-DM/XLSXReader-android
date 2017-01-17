@@ -1,4 +1,3 @@
-正在更新中。。。。。。
 -------------------------
 # ZXLSXReader-android 
 在android平台下对execl文件xlsx的解析过程进行封装，
